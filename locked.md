@@ -1,6 +1,6 @@
-![start-now](https://academy-discorce-s3.s3.dualstack.us-east-2.amazonaws.com/upload/original/2X/d/db9622b98f9751de2b525a0c7add188f1f97858d.png) 
+![start-now](./assets/start-now.png) 
 
-**هذا المحتوى مغلق كونه جزء من المحتوى التدريبي الخاص بمخيم تدريب البرمجة (كي كامب) Django kCamp**
+**هذا المحتوى مغلق كونه جزء من المحتوى التدريبي الخاص بمخيم تدريب البرمجة (كي كامب)**
 
 ## جاهز لإكمال رحلتك؟
 
@@ -16,4 +16,4 @@
 
 * مراجعة جميع حلولك من قبل مدربين مختصين.
 
-<a href="https://spa-dev.coretabs.net/k-camps/django" class="task-btn"> اشترك في المخيم التدريبي</a>
+<a href="https://spa-dev.coretabs.net/k-camps/django" class="task-btn"> اطلع على المخيم</a>
