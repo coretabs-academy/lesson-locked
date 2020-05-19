@@ -1,4 +1,4 @@
-![start-now](./assets/start-now.png) 
+![start-now](https://raw.githubusercontent.com/coretabs-academy/lesson-locked/master/assets/start-now.png) 
 
 **هذا المحتوى مغلق كونه جزء من المحتوى التدريبي الخاص بمخيم تدريب البرمجة (كي كامب)**
 
