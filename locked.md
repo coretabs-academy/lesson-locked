@@ -16,4 +16,4 @@
 
 * مراجعة جميع حلولك من قبل مدربين مختصين.
 
-<a href="https://spa-dev.coretabs.net/k-camps/django" class="task-btn"> اطلع على المخيم</a>
+<a href="https://coretabs.net/k-camps/django" class="task-btn"> اطلع على المخيم</a>
